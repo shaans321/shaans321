@@ -14,18 +14,19 @@
 
 ## 🔬 Featured AI/ML Projects
 ### Decition Tree Optimization
-*
+**
 
 ### Bike Sharing Demand Predictions
-*
+**
 
 ### Credit Card Fraud Detection
-*
+**
 
 ### Skin Cancer Detection
+**
 
 ### Movie Recommendation System
-*
+**
 
 ### Uber - Price Forecast
 
