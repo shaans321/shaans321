@@ -67,5 +67,4 @@
 
 ## 🤝 Connect With Me
 
-*   **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-*   **Email:** [your.email@example.com](mailto:your.email@example.com)
+*   **Email: shaansi@yahoo.com
