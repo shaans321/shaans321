@@ -1,4 +1,4 @@
-#Shankar Chitragar 👋
+### Shankar Chitragar 👋
 
 ### AI/ML Engineer & Enterprise Data Architect
 Distilling 23+ years of enterprise data warehousing experience into production-grade Artificial Intelligence and Machine Learning solutions. 
