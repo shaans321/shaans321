@@ -1,29 +1,41 @@
-# Hi, I'm Shankar Chitragar 👋
+#Shankar Chitragar 👋
 
 ### AI/ML Engineer & Enterprise Data Architect
-Distilling 22+ years of enterprise data warehousing experience into production-grade Artificial Intelligence and Machine Learning solutions. Recently completed an M.S. in Artificial Intelligence from the University of Texas at Austin.
+Distilling 23+ years of enterprise data warehousing experience into production-grade Artificial Intelligence and Machine Learning solutions. 
 
 ---
 
 ## 🚀 Core Expertise
 
 *   **Artificial Intelligence / ML:** Deep Learning (CNNs, Transformers, Swin-T), Computer Vision, Visual Language Models, Mathematical Optimization (Convex Optimization, Gradient Methods).
-*   **Data Engineering & Architecture:** Cloud Data Warehousing (Snowflake Architect, Teradata Master), dbt, Data Vault Modeling, High-Scale ETL/ELT Pipelines.
+*   **Data Engineering & Architecture:** Cloud Data Warehousing (Snowflake Architect, Teradata ), dbt, Data Vault Modeling, High-Scale ETL/ELT Pipelines.
 *   **Infrastructure & MLOps:** High-compute acceleration (CUDA, PyTorch, TensorFlow), Cloud Infrastructure (GCP, AWS).
 
 ---
 
 ## 🔬 Featured AI/ML Projects
+### Decition Tree Optimization
+*
 
-### 📂 [Radiograph Abnormality Detection — MURA Case Study](https://github.com/shaans321)
+### Bike Sharing Demand Predictions
+*
+
+### Credit Card Fraud Detection
+*
+
+### Skin Cancer Detection
+
+### Movie Recommendation System
+*
+
+### Uber - Price Forecast
+
+### 📂 [Radiograph Abnormality Detection — MURA Case Study]
 *An end-to-end comparative study evaluating deep learning architectures on the Stanford MURA (Musculoskeletal Radiographs) dataset.*
 *   **The Tech:** PyTorch, ResNet, Swin Transformer, CUDA.
 *   **The Impact:** Implemented and fine-tuned state-of-the-art computer vision models, performing rigorous comparative analysis on classification metrics (AUC-ROC, Cohen's Kappa) to detect bone abnormalities.
 
-### 📂 [Algorithmic Optimization Sandbox](https://github.com/shaans321)
-*A collection of pure-Python and NumPy implementations of core optimization algorithms used to train complex models.*
-*   **The Tech:** NumPy, SciPy, Python.
-*   **The Focus:** Practical implementations of subgradient methods, Newton's direction, and dual objective functions for constrained optimization problems.
+
 
 ---
 
